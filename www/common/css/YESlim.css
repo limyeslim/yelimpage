@@ -1,0 +1,18 @@
+*{margin: 0; padding: 0}
+body{font-family: 'Noto Sans KR 300'}
+ul,li{list-style: none}
+
+#section1>.container{padding-top: 88px;}
+#section1 .container .lim>.des {line-height: 50px; font-size: 40px;}
+#section1 .container .lim .morebolder{ font-family:'Noto Sans KR 500'}
+#section1 .container .lim .name{font-size: 20px; letter-spacing: 5px;}
+/* #section1 .container .first .yelimlong{color: black; letter-spacing: normal; font-size: 15px;
+                                       padding-top: 25px;} */
+#section1 .container .keyword{font-size: 23px; font-weight: bold; color: #0722ba; padding-top: 20px;}
+#section1 .container .first{padding-top: 20px;}
+#section1 .container .first>li{ font-size: 45px; letter-spacing: 10px; color: #0722ba; padding-top: 40px;
+                                line-height: 25px;}
+#section1 .container .first>li>strong{border-bottom: 3px solid gray; }                                
+#section1 .container .mainimg .photodes{font-size: 15px;}
+
+#section6 .contact{border-top: solid 2px gray;}
